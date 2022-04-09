@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natthaPT
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning Data Analyst ang SQL language
+- 👀 I’m interested in Software Tester
+- 🌱 I’m currently learning Software tester ang SQL language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Linkin : https://www.linkedin.com/in/natthae/
 
